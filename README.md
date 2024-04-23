@@ -18,7 +18,7 @@ The financial data is retrieved from screener.io (https://www.screener.in/compan
 - MS excel
 - MS Power BI
 
-## Project methodology
+## Project Methodology
 ### Data cleaning/preparation - excel
   - The financial data was imported to excel. Seperate spreadsheets were created for income statements, Balance sheet and Cash flow statements.
   - The column width was adjusted and the spellings were checked.
