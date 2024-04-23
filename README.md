@@ -2,6 +2,8 @@
 
 ## Table of contents
 - [Project Overview](#project-overview)
+- [Data source](#Data-source)
+- [Analysis Tools used](#Analysis-Tools-used)
 - [Methodology](#project-methodology)
 - [Results and findings](#results-and-findings)
 - [Limitations](#limitations)
